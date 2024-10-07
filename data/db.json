@@ -1,0 +1,104 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Premier League Kick-Off 2024",
+      "body": "The Premier League 2024 season is underway, with Manchester City aiming to defend their title. This season promises exciting matchups, with newcomers Burnley and Sheffield United making their mark.",
+      "tags": [
+        "PremierLeague",
+        "ManchesterCity",
+        "FootballNews"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Lionel Messi Wins Ballon d'Or 2024",
+      "body": "Lionel Messi continues to break records as he wins his 8th Ballon d'Or, surpassing all other players in history. The Argentine captain has had a stellar year, leading Inter Miami to the MLS title.",
+      "tags": [
+        "LionelMessi",
+        "BallonDor",
+        "InterMiami"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Top 5 Players to Watch in La Liga",
+      "body": "As the 2024 La Liga season begins, all eyes are on new talents like Jude Bellingham, who recently joined Real Madrid. Barcelona's rising star Gavi and Atletico Madrid's João Félix also promise an exciting year.",
+      "tags": [
+        "LaLiga",
+        "RealMadrid",
+        "Barcelona"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Champions League Round of 16 Preview",
+      "body": "The Champions League Round of 16 is set, with Bayern Munich facing Manchester United and PSG taking on Juventus. Can Real Madrid continue their European dominance?",
+      "tags": [
+        "ChampionsLeague",
+        "BayernMunich",
+        "ManchesterUnited"
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Ronaldo's Last Dance: Farewell to a Legend",
+      "body": "Cristiano Ronaldo has announced his retirement from professional football after a glittering career that spanned two decades. The football world bids farewell to a true legend of the game.",
+      "tags": [
+        "CristianoRonaldo",
+        "Retirement",
+        "FootballNews"
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Top 10 Goals in World Cup 2022",
+      "body": "Relive the best moments from the 2022 World Cup, including Kylian Mbappé's hat-trick in the final and Messi's incredible goal in the semi-finals. These moments will go down in football history.",
+      "tags": [
+        "WorldCup",
+        "KylianMbappé",
+        "Argentina"
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Serie A Title Race Heats Up",
+      "body": "The Serie A 2024 season has been thrilling, with Napoli, Inter Milan, and AC Milan all vying for the top spot. With only 5 points separating the top three, it promises to be an exciting conclusion.",
+      "tags": [
+        "SerieA",
+        "InterMilan",
+        "Napoli"
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Erling Haaland's Record-Breaking Season",
+      "body": "Erling Haaland is on track to break the Premier League's single-season goal record. With 35 goals so far, the Manchester City striker is unstoppable, and his performances have been nothing short of incredible.",
+      "tags": [
+        "ErlingHaaland",
+        "ManchesterCity",
+        "PremierLeague"
+      ]
+    },
+    {
+      "id": 9,
+      "title": "Women's World Cup 2023: USA vs England Final",
+      "body": "The 2023 Women's World Cup saw a thrilling final between the USA and England, with England securing a dramatic win in extra time. This marks a historic first World Cup win for the Lionesses.",
+      "tags": [
+        "WomensWorldCup",
+        "England",
+        "USA"
+      ]
+    },
+    {
+      "id": 10,
+      "title": "Transfer Rumors: Mbappé to Real Madrid?",
+      "body": "Rumors are swirling that Kylian Mbappé could make a sensational move to Real Madrid in the summer transfer window. Will the French superstar finally make the switch from PSG?",
+      "tags": [
+        "KylianMbappé",
+        "RealMadrid",
+        "TransferNews"
+      ]
+    }
+  ]
+}
